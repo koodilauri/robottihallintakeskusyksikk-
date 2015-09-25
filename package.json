@@ -1,0 +1,22 @@
+{
+  "name": "robottihallintakeskusyksikko",
+  "version": "1.0.0",
+  "description": "tällä voi hallita robotteja.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koodilauri/robottihallintakeskusyksikko.git"
+  },
+  "author": "lauri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koodilauri/robottihallintakeskusyksikko/issues"
+  },
+  "homepage": "https://github.com/koodilauri/robottihallintakeskusyksikko#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
